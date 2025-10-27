@@ -1,0 +1,175 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.navbar {
+  padding: 15px;
+  font-size: 45px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  z-index: 10;
+}
+li {
+  list-style: none;
+}
+
+.li4 {
+  margin-left: 90%;
+  margin-top: -55px;
+}
+
+.li3 {
+  margin-left: 83%;
+  margin-top: -45px;
+}
+
+.li2 {
+  margin-left: 75%;
+  margin-top: -35px;
+}
+.heading {
+    margin-top: 60px;
+    margin-left: 2%;
+    box-shadow: 2px 2px rgb(230, 228, 225);
+    border: 5px solid white;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    font-size: 50px;
+    font-family:sans-serif;
+}
+img{
+  height: 400px;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.back {
+  height: 90vh;
+  width: 100%;
+  margin-top: 70px;
+  background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+ 
+}
+
+.textbr {
+  background-color: black;
+  padding: 8px 12px;
+  opacity: 0.8;
+  font-weight: bold;
+  margin-right: 10px;
+  color: white;
+}
+
+.architect {
+  letter-spacing: 4px;
+}
+.sec{
+    margin-top: 60px;
+    margin-left: 2%;
+    box-shadow: 2px 2px rgb(230, 228, 225);
+    border: 5px solid white;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    font-size: 50px;
+    font-family:sans-serif;
+    
+    
+}
+.content{
+    font-size: 40px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+    
+}
+.name{
+  font-size: 55px;
+  margin-left: 2%;
+  margin-bottom: 20px;  
+  text-align: left;
+  padding-left: 5%;
+}
+.role{
+  font-size: 30px;
+  margin-left: 2%;
+  margin-bottom: 20px;  
+  text-align: left;
+  padding-left: 5%;
+  color: rgb(169, 167, 167);
+}
+.b1{
+  font-size: 30px;
+  margin-left: 2%;
+  margin-bottom: 20px;  
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: rgb(223, 222, 222);
+  border: none;
+  cursor: pointer;
+}
+/* .form-content {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+ 
+
+} */
+.input{
+  width: 95%;
+  height: 60px;
+  font-size: 40px;
+  margin-left: 25px;
+}
+
+.form-button{
+  background-color: black;
+  color: white;
+  font-size: 35px;
+  padding: 10px 20px;
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+.form-button:hover {
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}
+.image{
+  background-image: url("https://www.w3schools.com/w3images/map.jpg");
+  height: 90vh;
+  width: 95%;
+  margin-left: 2%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  font-size: 35px;
+}
